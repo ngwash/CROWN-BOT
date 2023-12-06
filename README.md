@@ -14,7 +14,8 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Whatsapp" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Whatsapp" src="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏?color=green&style=flat-square"></a>
+  
 <a href="https://github.com/kimsirm/CROWN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/crownai06/Crown-Ai?color=white&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-BOT?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/CROWN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/CROWN-AI?label=Watchers&color=red&style=flat-square"></a>
