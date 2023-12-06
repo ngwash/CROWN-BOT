@@ -1,14 +1,33 @@
 # CROWN-BOT
 
-<p align="center">  
-  <a href="https://x.com/NSirm5?s=09">
-    <img alt="CROWN" height="300" src="https://i.imgur.com/2uMI7uh.jpeg">
-    <h1 align="center">CROWN-AI</h1>
-  </a>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/ou2lVgr.mp4" alt="01" border="0" /></a>
+</p>
+
+
+<h1 align="center">CROWN-BOT-v6</h1>
+<p align="center">
+  <a href="https://github.com/kimsirm"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=CROWN+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
+
+<p align="center">
+ <a href="#"><img title="𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kimsirm"><img title="Author" src="https://img.shields.io/badge/CROWN-BOT-black?style=for-the-badge&logo=telegram"></a>
-<p/
+<a href="https://github.com/kimsirm"><img title="Author" src="https://img.shields.io/badge/AUTHOR-CROWN-green.svg?style=for-the-badge&logo=github"></a>
+<h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
+
+
+---------
+
+## ```Contact Me 💌``` 
+  <a href="https://wa.me/923195832822">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="sirmnjai@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
