@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-<u>🦄𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏🦄</u>
+<u>👑𝐋𝐎𝐍𝐆 𝐋𝐈𝐕𝐄 𝐂𝐑𝐎𝐖𝐍👑</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/oE6btwC.jpeg" width="300" height="300"/>
