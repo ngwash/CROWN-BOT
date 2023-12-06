@@ -1,7 +1,7 @@
 # CROWN-BOT
 
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
+  <a href="https://x.com/NSirm5?s=09">
     <img alt="CROWN" height="300" src="https://i.imgur.com/2uMI7uh.jpeg">
     <h1 align="center">CROWN-AI</h1>
   </a>
