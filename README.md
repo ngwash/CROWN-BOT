@@ -11,12 +11,12 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CROWN-AI+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-https://wa.me/923195832822-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/kimsirm?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/crownai06/Crown-Ai?color=white&style=flat-square"></a>
-<a href="https://github.com/kimsirm/CROWN-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/fork/crownai06/COWN-Ai?color=yellow&style=flat-square"></a>
+<a href="https://github.com/kimsirm/CROWN-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-BOT?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/CROWN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/CROWN-AI?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-AI/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
