@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://x.com/NSirm5?s=09">
-    <img alt="CROWN" height="300" src="https://i.imgur.com/ou2lVgr.mp4">
+    <video alt="CROWN" height="300" src="https://i.imgur.com/ou2lVgr.mp4">
     <h1 align="center">CROWN-AI</h1>
   </a>
 </p>
