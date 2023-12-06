@@ -3,7 +3,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="CROWN" height="300" src="https://i.imgur.com/2uMI7uh.jpeg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <h1 align="center">CROWN-AI</h1>
   </a>
 </p>
 <p align="center">
