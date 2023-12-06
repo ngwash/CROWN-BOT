@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/kimsirm"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/kimsirm"><img title="Author" src="https://img.shields.io/badge/CROWN-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
