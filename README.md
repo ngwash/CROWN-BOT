@@ -16,7 +16,7 @@
 <p align="center">
 <a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+CROWN+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Crown+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Stars" src="https://img.shields.io/github/stars/crownai06/Crown-Ai?color=white&style=flat-square"></a>
+<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-BOT?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/CROWN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/CROWN-AI?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-AI/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
