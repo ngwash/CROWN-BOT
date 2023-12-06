@@ -8,7 +8,7 @@
 
 <h1 align="center">CROWN-BOT-v6</h1>
 <p align="center">
-  <a href="https://github.com/kimsirm"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=CROWN+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/kimsirm"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=CROWN+BOT+Multi+Device;Base+ori+by+Sirm;Recode+By+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
